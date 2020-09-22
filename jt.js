@@ -1,7 +1,6 @@
 const https = require('https')
 const fs = require('fs')
 const moment = require('moment')
-const { exception } = require('console')
 
 //"https://official.jtexpress.com.cn/official/waybill/trackingCustomerByWaybillNo/v_3?waybillList=JT0000131754417"
 
