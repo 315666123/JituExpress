@@ -1,0 +1,14 @@
+{
+  "name": "jituexpress",
+  "version": "1.0.0",
+  "description": "极兔速递单号批量查询保存",
+  "main": "jt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.28.0"
+  }
+}
